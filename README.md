@@ -36,8 +36,9 @@ I'm a **Web Developer**, **IoT Enthusiast**, and **Freelance Programmer** who lo
 ---
 
 ## 📫 Contact Me
-
-* 🛒 My online shop: **[adyndashop](https://adynda.shop)**
+* [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/hhxsHFvaBN) Syntax Community
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/xacmdy.ls) My Instagram
+* [🛒 AdyndaShop](https://adynda.shop)
 
 ---
 

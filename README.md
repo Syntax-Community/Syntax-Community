@@ -29,6 +29,12 @@ I'm a **Web Developer**, **IoT Enthusiast**, and **Freelance Programmer** who lo
 
 ---
 
+## 📁 NPM Tools Project
+- 💬 syntaxtermchat ( command "termchat" ) - **chatting via terminal**
+- 🪙 syntaxcrypto ( command "syntaxcrypto -h" ) - **monitoring crypto assets**
+> **install with -g parameter**
+---
+
 ## 🐍 Active Developer
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)

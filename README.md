@@ -33,7 +33,8 @@ I'm a **Web Developer**, **IoT Enthusiast**, and **Freelance Programmer** who lo
 - 💬 syntaxtermchat ( command "termchat" ) - **chatting via terminal**
 - 🪙 syntaxcrypto ( command "syntaxcrypto -h" ) - **monitoring crypto assets**
 - 💰 syntax-donate ( command "donate" ) - **donate to syntax community with saweria CLI**
-- 📖 sybtax-muslim ( command "reminder" ) - **random reminder of the Quran**
+- 📖 syntax-muslim ( command "reminder" ) - **random reminder of the Quran**
+- 📬 syntax-postman (command "synpost" ) - **api post with CLI**
 > **install with -g parameter**
 ---
 

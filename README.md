@@ -30,9 +30,7 @@ I'm a **Web Developer**, **IoT Enthusiast**, and **Freelance Programmer** who lo
 ---
 
 ## 📁 NPM Tools Project
-- 💬 syntaxtermchat ( command "termchat" ) - **chatting via terminal**
 - 🪙 syntaxcrypto ( command "syntaxcrypto -h" ) - **monitoring crypto assets**
-- 💰 syntax-donate ( command "donate" ) - **donate to syntax community with saweria CLI**
 - 📖 syntax-muslim ( command "reminder" ) - **random reminder of the Quran**
 - 📬 syntax-postman (command "synpost" ) - **api post with CLI**
 > **install with -g parameter**

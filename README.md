@@ -2,6 +2,8 @@
 
 I'm a **Web Developer**, **IoT Enthusiast**, and **Freelance Programmer** who loves building fast, modern, and scalable applications — both on the web and on embedded systems.
 
+support me/syntaxcommunity: https://tako.id/Syntax_Community
+
 ---
 
 ## 🚀 Tech Stack

@@ -34,7 +34,9 @@ support me/syntaxcommunity: [TAKO](https://tako.id/Syntax_Community)
 ## 📁 NPM Tools Project
 - 🪙 syntaxcrypto ( command "syntaxcrypto -h" ) - **monitoring crypto assets**
 - 📖 syntax-muslim ( command "reminder" ) - **random reminder of the Quran**
-- 📬 syntax-postman (command "synpost" ) - **api post with CLI**
+- 📬 syntax-postman ( command "synpost" ) - **api post with CLI**
+- 🚀 syntax-autopublish ( command "autopublish" ) - **auto publish to npmjs, pypi, github**
+- 📥 syntax-autodep ( command "autodep" ) - **auto package installer for ".js", ".jsx", ".ts", ".tsx", ".mjs", ".cjs"**
 > **install with -g parameter**
 ---
 
